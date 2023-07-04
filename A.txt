@@ -1,1 +1,1 @@
-int lv = 1;
+int lv=1;
